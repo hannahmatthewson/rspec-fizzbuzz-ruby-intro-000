@@ -7,4 +7,6 @@ def fizzbuzz (number)
     "FizzBuzz"
   elsif (number % 3 and number % 5 != 0)
     "nil"
+  else
+    "other number"
 end
